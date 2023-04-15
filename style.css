@@ -11,6 +11,10 @@ h1 {
     padding-top: 20px;
 }
 
+button{
+padding: 5px;
+}
+
 .stitre {
     color: white;
     font-size: 17px;
@@ -24,5 +28,16 @@ padding: 10px;
 .note {
     font-size: 14px;
     font-style: italic;
-  
+}
+
+.navbtn{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.active{
+    background-color: #063970;
+    color: white;
+}
+a:hover{
+    color: white  ;
 }
