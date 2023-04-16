@@ -11,6 +11,20 @@ h1 {
     padding-top: 20px;
 }
 
+h2{
+    color: #063970;
+    font-size: 26px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+a{
+    color: #063970;
+}
+section {
+margin-top: 20px;
+}
+
 button{
 padding: 5px;
 }
