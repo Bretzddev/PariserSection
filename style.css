@@ -48,6 +48,12 @@ button{
 padding: 5px;
 }
 
+footer{
+    color: white;
+    background-color: #063970;
+    text-align: center;
+}
+
 .stitre {
     color: white;
     font-size: 17px;
