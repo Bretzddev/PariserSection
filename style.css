@@ -4,6 +4,10 @@ header {
     text-align: center;
 }
 
+main{
+    background-color: rgba(100, 149, 237, 0.2);
+}
+
 h1 {
     color: #063970;
     font-size: 32px;
@@ -52,6 +56,10 @@ padding: 10px;
     background-color: #063970;
     color: white;
 }
+
+
+
+
 a:hover{
     color: white  ;
 }
