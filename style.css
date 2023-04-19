@@ -21,7 +21,7 @@ h2{
     color: #063970;
     font-size: 26px;
     font-weight: bold;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 h3{
@@ -35,9 +35,7 @@ a{
     font-size: small;
 }
 section {
-margin-top: 20px;
 margin-left: 10px;
-margin-bottom: 20px;
 margin-right: 10px;
 }
 
@@ -87,10 +85,18 @@ padding: 10px;
     justify-content: space-evenly;
 }
 
-.card {
-background-color: rgba(100, 149, 237, 0.2);
-margin-bottom: 15px;
+.bcgc {
+    background-color: rgb(198, 218, 248);  
+ }
+
+.bcgd {
+    background-color: #063970;
 }
+
+.card {
+margin: 10px;
+}
+
 
 .left {
     margin-right: 5px;
@@ -110,11 +116,6 @@ margin-bottom: 15px;
     color: #063970;
     font-size: 14px;
     padding: 5px;
-}
-
-.card-body{
-    display:flexbox
-
 }
 
 .btn{
@@ -137,12 +138,9 @@ a:hover{
     max-width: 350px;
 }
 
-.row {
-    justify-content: space-evenly;
-}
-
 .firstCard {
     color: #063970;
     font-size: 18px;
     padding: 5px;
 }
+
