@@ -75,6 +75,7 @@ padding: 10px;
 .navbtn{
     background-color: cornflowerblue;
     text-align: center;
+    font-size: 14px;
 }
 .active{
     background-color: #063970;
