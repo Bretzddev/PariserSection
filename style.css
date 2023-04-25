@@ -4,7 +4,7 @@ header {
     text-align: center;
 }
 
-main{
+main {
     background-color: rgba(100, 149, 237, 0.2);
 }
 
@@ -17,40 +17,34 @@ h1 {
     padding-top: 20px;
 }
 
-h2{
+h2 {
     color: #063970;
     font-size: 26px;
     font-weight: bold;
     padding-top: 20px;
 }
 
-h3{
+h3 {
     color: #063970;
     font-size: 20px;
     font-weight: bold;
 }
 
-a{
+a {
     color: #063970;
     font-size: small;
 }
+
 section {
 margin-left: 10px;
 margin-right: 10px;
 }
 
-aside{
-    margin-top: 20px;
-    margin-right: 10px;
-    margin-bottom: 20px;
-   
-}
-
-button{
+button {
 padding: 5px;
 }
 
-footer{
+footer {
     color: white;
     background-color: #063970;
     text-align: center;
@@ -72,12 +66,12 @@ padding: 10px;
     font-style: italic;
 }
 
-.navbtn{
+.navbtn {
     background-color: cornflowerblue;
     text-align: center;
     font-size: 16px;
 }
-.active{
+.active {
     background-color: #063970;
     color: white;
 }
@@ -98,7 +92,6 @@ padding: 10px;
 margin: 10px;
 }
 
-
 .left {
     margin-right: 5px;
 }
@@ -106,32 +99,26 @@ margin: 10px;
 .right {
     margin-left: 5px;
 }
-.card-title{
+
+.card-title {
     color: #063970;
     font-size: 20px;
     padding-top: 10px;
     padding-left: 10px;
 }
 
-.card-text{
+.card-text {
     color: #063970;
     font-size: 14px;
     padding: 5px;
 }
 
-.btn{
+.btn {
     font-size: 14px;
     color: white;
     background-color: #063970;
-}
-.btn:hover {
-    background-color: white;
-    color: #063970;
-
-}
-
-a:hover{
-    color: white  ;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .maxImg {
@@ -145,3 +132,12 @@ a:hover{
     padding: 5px;
 }
 
+.btn:hover {
+    background-color: white;
+    color: #063970;
+
+}
+
+a:hover {
+    color: white  ;
+}
