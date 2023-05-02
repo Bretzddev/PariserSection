@@ -68,7 +68,7 @@ padding: 10px;
 .navbtn {
     background-color: cornflowerblue;
     text-align: center;
-    font-size: 16px;
+    font-size: 15px;
 }
 .active {
     background-color: #063970;
@@ -139,4 +139,8 @@ margin: 10px;
 
 a:hover {
     color: white  ;
+}
+
+.link {
+    text-decoration: none;
 }
